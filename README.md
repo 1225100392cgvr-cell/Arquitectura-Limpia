@@ -45,6 +45,12 @@ lib/
 
 Los recursos (imágenes, audios y video) están en `assets/`.
 
+## Pruebas (`flutter test`)
+
+Resultado de correr `flutter test`: **3 pruebas pasan** (*All tests passed!*). Las pruebas están en [`test/obtener_lugares_test.dart`](test/obtener_lugares_test.dart).
+
+<img src="screenshots/flutter_test.png" alt="Resultado de flutter test" width="900">
+
 ## Cómo ejecutar
 
 ```bash
